@@ -59,3 +59,14 @@ h1{
     box-shadow: 0 32px 75px rgba(68,77,85,0.2);
     border-radius: 20px;
 }
+h2{
+    text-align: center;
+    
+    padding: 12px;
+    font-size: large;
+    font-weight: 700;
+    margin: 8px;
+}
+h2:hover{
+    color: rgb(218, 14, 14);
+}
